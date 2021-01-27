@@ -27,6 +27,7 @@ python3 main.py
 
 The `config.json` file in the current directory will be read, so change to the root directory of the project in advance before executing.
 
+If necessary, register it in Crontab, etc. and run it periodically.
 
 ## Warning / Disclaimer
 
